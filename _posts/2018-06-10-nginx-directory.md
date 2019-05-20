@@ -47,7 +47,7 @@ Restart Nginx to apply your changes. `service nginx restart`
 
 When I make GET request for the directory I've configured, it lists files and folders like this:
 
-![nginx-directory-listing](/img/posts/nginx-dricetory-listing.png)
+![nginx-directory-listing](/img/posts/nginx-dricetory-listing.png){:.img-fluid}
 
 ## References
 
