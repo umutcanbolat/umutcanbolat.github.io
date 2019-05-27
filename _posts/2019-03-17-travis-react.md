@@ -4,7 +4,7 @@ title: "Automatically Deploy React Apps to Github Pages with TravisCI"
 subtitle: "How to deploy react apps on every successful push?"
 date: 2019-03-17 20:09:59 -0300
 background: '/img/posts/deploy.jpg'
-permalink: 'automatically-deploy-react-apps-to-github-pages'
+permalink: 'automatically-deploy-react-apps-to-github-pages/'
 ---
 
 GitHub Pages is a really easy and free way to host React applications. This post is a tutorial for people who want to deploy react apps on github pages automatically on every successful push.

@@ -4,7 +4,7 @@ title: "How to work on a remote server with Vscode sftp?"
 subtitle: "Develop your projects on a remote server with Vscode's sftp extension."
 date: 2019-01-26 01:07:35 -0300
 background: '/img/posts/server.jpg'
-permalink: 'visual-studio-code-sftp'
+permalink: 'visual-studio-code-sftp/'
 ---
 
 Vscode is my favorite editor so far. Because it is highly customizable and has lots of useful extensions. One of these extensions is sftp which makes it possible to work on a remote server with very little lines of configuration.

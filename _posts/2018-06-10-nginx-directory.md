@@ -4,7 +4,7 @@ title: "How to enable directory listing in Nginx?"
 subtitle: "Setting up nginx to list files and folders in a directory."
 date: 2018-06-10 02:12:09 -0300
 background: '/img/posts/nginx.png'
-permalink: 'how-to-enable-directory-listing-in-nginx'
+permalink: 'how-to-enable-directory-listing-in-nginx/'
 ---
 
 I have just migrated my website from Apache to Nginx. The reasons for this can be another topic of a new blog post. But the main reason for me was to learn something new.
