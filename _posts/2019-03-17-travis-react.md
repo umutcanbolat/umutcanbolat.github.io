@@ -3,7 +3,7 @@ layout: post
 title: "Automatically Deploy React Apps to Github Pages with TravisCI"
 subtitle: "How to deploy react apps on every successful push?"
 date: 2019-03-17 20:09:59 -0300
-background: '/img/posts/deploy.jpg'
+background: '/img/posts/webp/deploy.webp'
 permalink: 'automatically-deploy-react-apps-to-github-pages/'
 ---
 
@@ -46,7 +46,7 @@ Run the `npm run deploy` command in the project directory. This will automatical
 
 If you see the **published** status on the terminal screen, you can see your react application on GitHub pages. Check out the link you provided in package.json as the homepage.
 
-![React, Github Pages, Travis](/img/posts/react-github-pages-travis.png){:.img-fluid}
+![React, Github Pages, Travis](/img/posts/webp/react-github-pages-travis.webp){:.img-fluid}
 
 ### 5- Automated Deploys with Travis
 So we have built and deployed the app to the github pages. We want to automatize it using continuous integration.
@@ -85,14 +85,14 @@ Get your GitHub token to authorize Travis CI to push your repo. (You can follow 
 
 Travis only needs permissions of repo scope.
 
-![GitHub repo permission scopes](/img/posts/github-repo-permissions.png){:.img-fluid}
+![GitHub repo permission scopes](/img/posts/webp/github-repo-permissions.webp){:.img-fluid}
 
 {:.caption}
 GitHub personal access token scope selection
 
 After getting the repo token, create an environment variable in Travis CI and put your token there.
 
-![Travis CI Envrionment Variables](/img/posts/travis-ci-env-variables.png){:.img-fluid}
+![Travis CI Envrionment Variables](/img/webp/posts/travis-ci-env-variables.webp){:.img-fluid}
 
 {:.caption}
 Travis Environment Variables

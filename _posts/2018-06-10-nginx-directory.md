@@ -3,7 +3,7 @@ layout: post
 title: "How to enable directory listing in Nginx?"
 subtitle: "Setting up nginx to list files and folders in a directory."
 date: 2018-06-10 02:12:09 -0300
-background: '/img/posts/nginx.png'
+background: '/img/posts/webp/nginx.webp'
 permalink: 'how-to-enable-directory-listing-in-nginx/'
 ---
 
@@ -47,7 +47,7 @@ Restart Nginx to apply your changes. `service nginx restart`
 
 When I make GET request for the directory I've configured, it lists files and folders like this:
 
-![nginx-directory-listing](/img/posts/nginx-dricetory-listing.png){:.img-fluid}
+![nginx-directory-listing](/img/posts/webp/nginx-dricetory-listing.webp){:.img-fluid}
 
 ## References
 
