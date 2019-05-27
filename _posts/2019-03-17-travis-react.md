@@ -92,7 +92,7 @@ GitHub personal access token scope selection
 
 After getting the repo token, create an environment variable in Travis CI and put your token there.
 
-![Travis CI Envrionment Variables](/img/webp/posts/travis-ci-env-variables.webp){:.img-fluid}
+![Travis CI Envrionment Variables](/img/posts/webp/travis-ci-env-variables.webp){:.img-fluid}
 
 {:.caption}
 Travis Environment Variables
