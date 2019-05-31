@@ -1,0 +1,36 @@
+body {
+    background-color: #003f80;
+    color: #fff;
+}
+.error-container {
+    text-align: center;
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.error-container h1 {
+    font-size: 130px;
+    font-weight: 300;
+}
+.error-container p {
+    font-size: 20px;
+    font-weight: 300;
+}
+.return {
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center 
+}
+.return a {
+    padding-bottom: 1px;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+}
+.return a:hover {
+    border-bottom-color: #fff;
+}
