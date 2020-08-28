@@ -1,21 +1,22 @@
-title:             Umut Canbolat
-email:             hello@umutcanbolat.com
-description:       Personal blog of Umut Canbolat
-author:            Umut Canbolat
-baseurl:           "/"
-url:               "https://www.umutcanbolat.com"
+title: Umut Canbolat
+email: hello@umutcanbolat.com
+description: Personal blog of Umut Canbolat
+author: Umut Canbolat
+baseurl: "/"
+url: "https://www.umutcanbolat.com"
 
 # Social Profiles
-# twitter_username:  
-github_username:   umutcanbolat
+# twitter_username:
+github_username: umutcanbolat
 linkedin_username: umutcanbolat
-# facebook_username: 
+# facebook_username:
 instagram_username: u.canbolat
+500px_username: umutcanbolat
 
 # Build settings
-markdown:          kramdown
-paginate:          5
-paginate_path:     "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
