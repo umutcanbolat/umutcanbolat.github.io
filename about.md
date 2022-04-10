@@ -7,7 +7,7 @@ background: "/img/webp/bg-about.webp"
 
 ## Hey there!
 
-I’m Umut, a software engineer from [Giessen, Germany](https://www.google.com/maps/place/Gie%C3%9Fen/@50.6918387,9.6675483,7z). I work at [Klarna](https://www.klarna.com/) and try to move digital payments one step further every day.
+I’m Umut, a software engineer living in [Berlin](https://goo.gl/maps/81k98xigP3Fuu7tX7) and working at [Klarna](https://www.klarna.com/). I try to move digital payments one step further every day.
 
 I know the importance of highly readable, clean, and easily maintainable code. I enjoy learning new technologies to create software solutions with the user in mind.
 
