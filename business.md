@@ -29,11 +29,13 @@ Registered Sole Proprietorship (Einzelunternehmen)
 **Angaben gemäß § 5 TMG:**
 
 **Umut Canbolat**
+
 Straßburger Str. 19
 10405 Berlin
 Deutschland
 
 **Kontakt:**
+
 E-Mail: <hello@umutcanbolat.com>
 Telefon: Auf Anfrage verfügbar
 
@@ -41,9 +43,11 @@ Telefon: Auf Anfrage verfügbar
 USt-IdNr.: Nicht vorhanden
 
 **Handelsregister:**
+
 Nicht vorhanden, Einzelunternehmen
 
 **Haftungsausschluss**
+
 Haftung für Inhalte & Links siehe unten.
 
 **Haftung für Inhalte:** Die Inhalte dieser Webseite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen.
