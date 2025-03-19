@@ -8,15 +8,15 @@ robots: noindex, nofollow
 
 ## Umut Canbolat – Software Development  
 
-**Registered Sole Proprietorship (Einzelunternehmen)**  
+Registered Sole Proprietorship (Einzelunternehmen)
 
-## Services  
+### Services  
 
 - Custom software development and API solutions.  
 - Example: Secure API integrations for username availability checks.
 - Example: Custom software for data processing and analysis.
 
-## Contact  
+### Contact  
 
 **Legal Name**: Umut Canbolat  
 **Address**: Straßburger Str. 19, 10405 Berlin, Germany  
@@ -24,7 +24,7 @@ robots: noindex, nofollow
 
 *This business is registered as a sole proprietorship (Einzelunternehmen) in Germany.*  
 
-## Impressum (Legal Notice)
+### Impressum (Legal Notice)
 
 **Angaben gemäß § 5 TMG:**
 
