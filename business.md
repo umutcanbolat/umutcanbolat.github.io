@@ -1,11 +1,3 @@
----
-layout: page
-title: Business Services
-description: I provide ready-to-use software solutions for businesses and individuals. I also write about software development and web technologies.
-background: "/img/webp/bg-business.webp"
-robots: noindex, nofollow
----
-
 ## Umut Canbolat – Software Development  
 
 Registered Sole Proprietorship (Einzelunternehmen)
@@ -39,16 +31,28 @@ Deutschland
 E-Mail: <hello@umutcanbolat.com>
 Telefon: Auf Anfrage verfügbar
 
-**Umsatzsteuer-ID:**
-USt-IdNr.: Nicht vorhanden
+**Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:**
+USt-IdNr.: DE452695753
+
+**Kleinunternehmer:**
+Kleinunternehmer i. S. v. § 19 Abs. 1 UStG
+
+**Inhaltlich Verantwortlicher gemäß § 18 Abs. 2 MStV:**
+Umut Canbolat
+
+**Streitschlichtung:**
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <https://ec.europa.eu/consumers/odr/>
+Meine E-Mail-Adresse finden Sie oben im Impressum.
+
+Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 **Handelsregister:**
+Nicht im Handelsregister eingetragen.
 
-Nicht vorhanden, Einzelunternehmen
+**Berufsrechtliche Angaben:**
+Es bestehen keine besonderen berufsrechtlichen Regelungen.
 
-**Haftungsausschluss**
-
-Haftung für Inhalte & Links siehe unten.
+**Haftungsausschluss:**
 
 **Haftung für Inhalte:** Die Inhalte dieser Webseite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen.
 
